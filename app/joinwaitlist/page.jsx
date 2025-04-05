@@ -80,7 +80,7 @@ export default function Home() {
                 htmlFor="school"
                 className="block text-sm font-medium mb-2"
               >
-                School Name
+                School/University Name
               </label>
               <input
                 type="text"
